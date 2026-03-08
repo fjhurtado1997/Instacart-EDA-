@@ -1,0 +1,12 @@
+# Análisis de datos
+pandas>=1.5.0
+
+# Visualizaciones
+matplotlib>=3.7.0
+
+## Instalación y ejecución
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/fjhurtado1997/Instacart-EDA.git
+   
